@@ -31,6 +31,6 @@ We believe useful technology emerges from the combination of rigorous engineerin
 ---
 
 **HyperMechane**
-Intelligent systems. Evolving technology.
+Evolving technology.
 
-[Website](https://hypermechane.com)
+[Website](https://www.hypermechane.com)
