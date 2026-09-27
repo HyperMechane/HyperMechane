@@ -5,7 +5,7 @@ about: Report a reproducible problem
 title: "[BUG] "
 labels: bug
 assignees: ""
--------------
+---
 
 ## Description
 
