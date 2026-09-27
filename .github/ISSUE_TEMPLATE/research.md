@@ -5,7 +5,7 @@ about: Document a technical investigation, experiment, or research question
 title: "[RESEARCH] "
 labels: research
 assignees: ""
--------------
+---
 
 ## Research Question
 
