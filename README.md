@@ -49,14 +49,15 @@ HyperMechane does not introduce generalized infrastructure merely because a tech
 
 ## Product Ecosystem
 
-Current products under development include:
+Portfolio documentation:
 
-* **Fractal Core** — horizontal customer operations, CRM, Customer Intelligence, AI, Automation, and Operations.
+* **Fractal Core** — horizontal Customer Operations architecture and codebase; currently on strategic hold. Its capabilities overlap with the internal Sales and Support agents being validated by Horizonte Fractal. The repository is preserved; independent implementation is paused.
 * **HyperExtract** — data acquisition and preparation technology.
 * **MINETRICA** — industrial/mining intelligence and traceability.
-* **Shotliv** — specialized image processing and enhancement.
 
-Products maintain independent domain boundaries while remaining aligned with the broader HyperMechane technology architecture.
+Shotliv is an independent personal project and is not part of the HyperMechane portfolio, brand, or institutional architecture. PrimeSkillAI is planned for future integration into Horizonte Fractal and is not listed as a HyperMechane product.
+
+**Organizational status — 2026-11-26:** HyperMechane's future operational role remains undecided. This repository preserves institutional and technical history; it does not imply active execution of every portfolio concept. Products maintain independent domain boundaries.
 
 ## Projects
 
