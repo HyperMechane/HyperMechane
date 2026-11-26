@@ -91,53 +91,47 @@ The following concerns apply across the technology layers:
 
 The depth of implementation remains proportional to actual product requirements.
 
-## 5. Current Product Architecture
+## 5. Portfolio and Product Boundaries
 
-HyperMechane currently has four products under active development:
-
-```text
-                    HYPERMECHANE
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-   HyperExtract    Fractal Core     MINETRICA
-          │              │              │
-   Data Acquisition  Customer Ops   Industrial
-   & Preparation     & Intelligence Intelligence
-          │              │              │
-          └──────────────┴──────────────┘
-                         │
-                     Technology
-                      Direction
-                         │
-                       Shotliv
-                         │
-                 Specialized Product
-```
-
-The diagram represents strategic alignment, not shared runtime infrastructure.
-
-### Fractal Core
-
-Horizontal customer operations platform.
+The institutional portfolio documentation covers the following distinct initiatives. Listing an initiative does not mean it is currently under active development.
 
 ```text
-CRM
- ↓
-Structured Customer Data
- ↓
-Customer Intelligence
- ↓
-AI
- ↓
-Automation
- ↓
-Operations
- ↓
-Agentic Execution
- ↓
-Controlled Autonomy
+                 HYPERMECHANE
+                      │
+          ┌───────────┴───────────┐
+          │                       │
+     HyperExtract             MINETRICA
+          │                       │
+   Data Acquisition        Industrial / Mining
+   & Preparation           Intelligence
+          │
+     Fractal Core
+          │
+   Customer Operations
+   (strategic hold)
 ```
+
+The diagram represents portfolio history and strategic alignment, not shared runtime infrastructure or current execution commitments.
+
+### Fractal Core — strategic hold
+
+Fractal Core is a horizontal Customer Operations architecture and codebase. Its purpose overlaps substantially with the Sales and Support agents being developed for Horizonte Fractal. Independent implementation is paused; the repository and technical work are preserved. Reuse or generalization may be reconsidered only after real operational evidence.
+
+Its historical architecture was CRM → Structured Customer Data → Customer Intelligence → AI → Automation → Operations → Agentic Execution → Controlled Autonomy. This is not an active roadmap.
+
+### HyperExtract
+
+Data Acquisition & Preparation Engine. Its strategic role is to make external information usable by downstream systems through extraction, normalization, structuring, validation, and provenance.
+
+### MINETRICA
+
+Industrial/mining intelligence and traceability product. Its long-term direction may combine industrial data, provenance, intelligence, AI, agentic execution, and autonomous operations when validated use cases justify them.
+
+### Explicitly independent projects
+
+Shotliv is a personal project with independent brand, positioning, repositories, and product decisions. It is not part of HyperMechane's portfolio or architecture.
+
+PrimeSkillAI is planned for future integration into Horizonte Fractal. It is not an active HyperMechane product.
 
 ### HyperExtract
 
@@ -240,7 +234,7 @@ AI-generated interpretation must remain distinguishable from source and canonica
 
 ### Now
 
-Build and validate the four products.
+No active execution commitment is implied by this architecture. The user's current operational priorities are Shotliv and Horizonte Fractal, both outside the active HyperMechane portfolio. HyperMechane's future operational role remains undecided.
 
 ### Next
 
@@ -304,6 +298,4 @@ Strategic direction must not be used to justify premature implementation.
 
 ## Current Baseline
 
-HyperMechane is currently focused on building product assets that establish a foundation for intelligent and eventually agentic systems.
-
-The immediate priority remains execution of the existing product roadmaps, not construction of generalized autonomous infrastructure.
+HyperMechane's future operational role remains undecided as of 2026-11-26. Preserve institutional assets, repositories, and technical documentation. Fractal Core is on strategic hold because its Customer Operations purpose overlaps with the Sales and Support agents being validated by Horizonte Fractal. Shotliv is independent and excluded from this architecture. No new HyperMechane development priority is assumed until an explicit decision is made.
