@@ -278,7 +278,6 @@ Current product blueprints:
 - Fractal Core — `docs/blueprint/BLUEPRINT.md`
 - HyperExtract — `docs/products/hyperextract/BLUEPRINT.md`
 - MINETRICA — to be established with its product repository
-- Shotliv — to be established with its product repository
 
 A product blueprint may constrain its implementation more narrowly than this strategic document.
 
